@@ -1,4 +1,4 @@
 com.revivalx.cordova.facebook
 =============================
 
-This source code provides example for facebook login.
+Source code tutorial: http://blog.revivalx.com/2014/05/20/integration-cordova-facebook-connect-plugin-for-android/.
